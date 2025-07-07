@@ -4,6 +4,7 @@
 Based on the analysis of your notebook "Sleep Health Lifestyle", here's a detailed and well-structured README.md file:
 
 💤 Sleep Health & Lifestyle – Sleep Disorder Prediction
+
 This project focuses on identifying patterns and building a machine learning model to predict sleep disorders based on individuals' health and lifestyle factors. The model helps classify whether a person is likely to suffer from Sleep Apnea, Insomnia, or has No Disorder using clinical and demographic data.
 
 📌 Project Highlights
@@ -24,6 +25,8 @@ BMI Category
 Blood Pressure (converted to Upper/Lower BP)
 Heart Rate, Sleep Duration, Physical Activity Level, Stress Level
 Target: Sleep Disorder (Insomnia, Sleep Apnea, No Disorder)
+
+
 🧪 Workflow
 1. Data Acquisition
 Used Kaggle API and Colab integration to download dataset.
