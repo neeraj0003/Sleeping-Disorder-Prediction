@@ -79,13 +79,13 @@ This project focuses on identifying patterns and building a machine learning mod
 ## 📈 Visualizations
 
 * 📍 **Pairplots** showing clusters of sleep disorder types
-![alt text](images/image.png)
+![alt text](image.png)
 * 📍 **Pie charts** and **histograms** for class-wise distributions
-![alt text](images/image-1.png)
-![alt text](images/image-4.png)
-![alt text](images/image-3.png)
+![alt text](image-1.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
 * 📍 **Countplots** for gender and occupation analysis
-![alt text](images/image-2.png)
+![alt text](image-2.png)
 ---
 
 ## 🧠 Outcome
